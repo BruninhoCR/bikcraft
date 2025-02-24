@@ -10,9 +10,8 @@
 
 O site é composto por quatro seções:
 
-- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
-- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
-- **Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
+- **Bicicletas:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
+- **Seguros:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
 - **Contato:** Um pequeno formulário para que possa entrar em contato comigo;
 
 
@@ -22,9 +21,10 @@ O site é composto por quatro seções:
 
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
+- Layout desenvolvido no Figma
 - HTML;
 - CSS;
-
+- JavaScript;
 ---
 
 Feito pro Bruno César Rocha da Silva 🖖🏽
