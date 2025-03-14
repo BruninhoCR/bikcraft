@@ -21,7 +21,7 @@ O site é composto por quatro seções:
 
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
-- Layout desenvolvido no Figma
+- Layout desenvolvido no Figma;
 - HTML;
 - CSS;
 - JavaScript;
