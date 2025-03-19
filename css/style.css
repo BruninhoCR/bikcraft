@@ -1,8 +1,18 @@
-@import "./global/global.css";
+/*header*/
 @import "./global/header.css";
+/*utilidades*/
 @import "./utilities/componentes.css";
 @import "./utilities/tipografia.css";
+/*home*/
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+/*bicicletas*/
+@import "./global/global.css";
 @import "./utilities/cores.css";
 @import "./bicicletas/bicicletas-listas.css";
-@import "./home/tecnologia.css";
+/*seguros*/
+@import "./seguros/seguros.css";
+
+
